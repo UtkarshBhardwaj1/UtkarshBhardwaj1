@@ -4,7 +4,7 @@
 Java, JSP, CSS, HTML<br>
 **📫 How to reach me:** <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarshbhardwaj7)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/utkarsh7423@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.accounts.gmail.com/utkarsh7423@gmail.com)
 
 <!---
 UtkarshBhardwaj1/UtkarshBhardwaj1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

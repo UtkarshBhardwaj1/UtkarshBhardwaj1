@@ -1,7 +1,7 @@
 # About Me: 
-👋 Hi, I’m Utkarsh <br> 🌱 **I’m currently learning:** <br>Spring, Spring Boot, Angular 17 <br> **I’m looking to collaborate on:** <br>Java Projects<br>Web applications<br>
+👋 Hi, I’m Utkarsh <br> 🌱 **I’m currently learning:** <br>Spring, Spring Boot, Angular 17 <br> **I’m looking to collaborate on:** <br>Java Projects, Web applications<br>
 **Known technologies:** <br>
-Java script, Hibernate, J2EE, JDBC, MySQL, Wordpress
+Java script, Hibernate, J2EE, JDBC, MySQL, Wordpress <br>
 **Ask me about:** <br>
 Java, JSP, CSS, HTML<br>
 **📫 How to reach me:** <br>
